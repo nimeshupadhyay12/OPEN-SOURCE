@@ -69,3 +69,14 @@ Here are some vendor-specific and public sources of threat intelligence and cybe
 - **Description**: The Spamhaus Project focuses on maintaining blocklists that help prevent spam, including the Spamhaus Block List (SBL), Exploits Block List (XBL), and Domain Block List (DBL). It also offers a variety of tools to block unwanted traffic and detect hijacked or compromised systems.
 - **Link**: [The Spamhaus Project](https://www.spamhaus.org)
 
+
+# Threat Maps in Cybersecurity
+
+Threat maps offer a geographic view of threat intelligence, helping security professionals visualize the global cybersecurity threat landscape in real-time. Many security vendors provide public access to high-level maps with real-time insights.
+
+## Example: Check Point Threat Map
+
+- **Description**: Check Point offers a public threat map that provides real-time insights into the global cybersecurity threat landscape. This tool helps users understand current threat activities across different regions.
+- **Link**: [Check Point Threat Map](https://threatmap.checkpoint.com)
+
+
